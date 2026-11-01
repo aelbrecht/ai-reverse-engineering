@@ -2,7 +2,9 @@
 
 Curated findings belong here; generated extraction outputs, disassembly exports,
 Ghidra projects, captures and logs belong under the workspace's `work/` directory.
-No original-game evidence is included in this scaffold.
+No research has been established for a new target. The separate
+[worked examples](../../../examples/README.md) summarize selected historical FEA
+evidence; their findings do not transfer automatically to another game.
 
 Give each connected subsystem one maintained evidence home. Record enough to
 reproduce the finding and distinguish source facts, native policy and unknowns:

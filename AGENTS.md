@@ -15,6 +15,9 @@ a separate game workspace, keep the C++23 project and its Git repository in
 `native/`, with generated data in the workspace's `work/` directory. Do not
 initialize a nested repository inside this template checkout.
 
+Use [examples/README.md](examples/README.md) for worked reference cases. Examples
+are not active assignments or acceptance evidence for a new target.
+
 ## Working practices
 
 - Be concise, direct, and technical. Inspect the workspace and relevant source

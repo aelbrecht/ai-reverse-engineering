@@ -16,6 +16,7 @@ describe how to work; tooling must be supplied or built for the new project.
 project-harness/
 ├── AGENTS.md                 Workspace and ROM-analysis instructions
 ├── README.md                 Adoption and starting prompts
+├── examples/                 Worked contracts, handoffs and verification
 ├── native/
 │   ├── AGENTS.md             Implementation, delegation and verification rules
 │   ├── README.md             Future application's introduction
@@ -28,9 +29,16 @@ project-harness/
 └── work/                     Created locally; ignored generated data
 ```
 
-The two instruction files closely follow the original workspace. Game-specific
-facts, completed milestones, active handoffs and local paths have been removed.
+The two instruction files closely follow the original workspace. Live game-specific
+status, active handoffs and local paths have been removed from the templates.
+Separately labeled examples retain selected FEA findings and historical results.
 Format-specific behavior must be established from the new target's evidence.
+
+## Worked examples
+
+See [the reference examples](examples/README.md) for a process-lifecycle contract,
+a scoped agent assignment and return handoff, and verification/report acceptance.
+They show the expected level of detail without adding implementation or tooling.
 
 ## Start a project
 

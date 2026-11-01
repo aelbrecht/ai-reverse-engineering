@@ -10,6 +10,9 @@ Use `docs/ROADMAP.md` for task scope and acceptance, and `WORKSPACE.md` for layo
 tooling entrypoints and active handoffs. Consult linked research for the relevant
 subsystem. README.md owns visitor basics, launch and controls.
 
+The [worked examples](../examples/README.md) illustrate contracts, delegation and
+verification. Their historical results and sample tasks do not apply to a new game.
+
 ## Implementation and fidelity
 
 - Inspect the relevant code and evidence before editing. Prefer targeted changes,
